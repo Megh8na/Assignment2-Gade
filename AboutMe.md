@@ -12,3 +12,32 @@ I'm from Godavarikhani,India. I love listening music and watching movies. I'm cu
 | Austria             | For its art and music scene | 1 Month        |
 | London              | For food and its culture    | 3 Months       |
 
+***********
+
+# Quotes
+
+> "one day.... I gonna make the onions cry."   --Chris
+
+> "Life is short. Smile while you still have teeth."  --Tejaswi
+
+
+***********
+
+# Code Fencing
+
+Creating your own Stimulus controllers
+
+```Stacks.addController("greeter", {
+    targets: ["name"],
+
+    greet: function () {
+        console.log("Hello, " + this.name +"!");
+    },
+
+    get name() {
+        return this.nameTarget.value;
+    }
+});```
+
+[link for the code](https://stackoverflow.design/product/guidelines/javascript/)
+
