@@ -2,7 +2,7 @@
 
 I'm from Godavarikhani,India. I love listening music and watching movies. I'm currently pursuing my Masters at Northwest Missouri State University.
 
-![link](https://images.goodsmile.info/cgm/images/product/20160704/5781/39900/large/2cb70f30b8a050a836c5920c989e3277.jpg)
+![My Picture](meghana.jpeg)
 
 ***********
 | Name of the country | Reason for recommendation   | Days to spend  |
