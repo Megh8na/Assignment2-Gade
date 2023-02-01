@@ -38,7 +38,8 @@ Creating your own Stimulus controllers
     get name() {
         return this.nameTarget.value;
     }
-});```
+});
+```
 
 [link for the code](https://stackoverflow.design/product/guidelines/javascript/)
 
