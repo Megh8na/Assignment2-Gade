@@ -16,6 +16,6 @@ I like this **Sport** because i use to play with my cousins and it used to be gr
 
 # Team Pakistan
 
-1. Mohammad rizwan
-1. Muhammad nawaz
-1. Babar azam
+* Mohammad rizwan
+* Muhammad nawaz
+* Babar azam
