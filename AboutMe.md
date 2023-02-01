@@ -27,7 +27,8 @@ I'm from Godavarikhani,India. I love listening music and watching movies. I'm cu
 
 Creating your own Stimulus controllers
 
-```Stacks.addController("greeter", {
+```
+  Stacks.addController("greeter", {
     targets: ["name"],
 
     greet: function () {
@@ -40,4 +41,6 @@ Creating your own Stimulus controllers
 });```
 
 [link for the code](https://stackoverflow.design/product/guidelines/javascript/)
+
+
 
