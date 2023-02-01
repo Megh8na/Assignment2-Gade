@@ -25,23 +25,36 @@ I'm from Godavarikhani,India. I love listening music and watching movies. I'm cu
 
 # Code Fencing
 
-Creating your own Stimulus controllers
+> Getting First and Last Items in Array (and splitting all the rest)
+
+> I need to get the last element of a split array with multiple separators. The separators are commas and space. If there are no separators it should return the original string.
+If the string is "how,are you doing, today?" it should return "today?"
+If the input were "hello" the output should be "hello".
+How can I do this in JavaScript?
+
+[Answer in Stackoverflow](https://stackoverflow.com/questions/651563/getting-the-last-element-of-a-split-string-array)
+
+> Answer to the above question in stackoverflow 
+
+```javascript
+const str = "hello,how,are,you,today?"
+const pieces = str.split(/[\s,]+/)
+const last = pieces[pieces.length - 1]
+
+console.log({last})
+
 
 ```
-  Stacks.addController("greeter", {
-    targets: ["name"],
 
-    greet: function () {
-        console.log("Hello, " + this.name +"!");
-    },
+> Answer to the above question in CSS tricks
 
-    get name() {
-        return this.nameTarget.value;
-    }
-});
+```javascript
+const arr = ["This", "Little", "Piggy"];
+const first = arr.pop();
+console.log(first);
+// "Piggy"
 ```
-
-[link for the code](https://stackoverflow.design/product/guidelines/javascript/)
+[Answer in CSS tricks](https://css-tricks.com/snippets/javascript/getting-first-and-last-items-in-array-and-splitting-all-the-rest/)
 
 
 
