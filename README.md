@@ -6,7 +6,7 @@
 
 I like this **Sport** because i use to play with my cousins and it used to be great fun playing with them. At the **Stadium**, cricket is played on a field between two teams with eleven players each.
 
-***
+*****
 
 # Team India
 
@@ -14,3 +14,8 @@ I like this **Sport** because i use to play with my cousins and it used to be gr
 1. Hardik panday
 1. Shubham gill
 
+# Team Pakistan
+
+1. Mohammad rizwan
+1. Muhammad nawaz
+1. Babar azam
